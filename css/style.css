@@ -1,0 +1,43 @@
+.login
+{ 
+    display: grid;
+    background-color:#D3D9E9;
+    width: 50%;
+    margin:auto;
+    margin-top: 20%;
+
+}
+.loginform{
+    display: grid;
+    row-gap: 30px;
+    column-gap: 10px;
+    margin: auto;
+    margin-bottom: 50px;
+    color:#554D74;
+}
+.loguearse{
+    margin:auto;
+    background-color: #A6A9C8;
+}
+.registrarse{
+    margin:auto;   
+    background-color: #A6A9C8;
+}
+body{
+    background-color: #554D74;
+    
+}
+.webname{
+    text-align: center;
+    color: #D3D9E9;    
+    
+}
+.Emailinput{
+    background-color: #D3D9E9;
+    
+}
+.Passwordinput
+{
+    background-color: #D3D9E9;
+}
+
